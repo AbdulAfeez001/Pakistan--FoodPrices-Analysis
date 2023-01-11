@@ -49,6 +49,7 @@ Price by Quarter and Provinces Name 2020
 ![Price by Quarter and Provinces Name 2020](https://user-images.githubusercontent.com/97398702/211841020-8433b9a8-469a-4e4d-a644-d90644688835.jpg)
 
 Analysis File 
+
 [Pakistan - Food Prices Analysis.zip](https://github.com/AbdulAfeez001/Pakistan--FoodPrices-Analysis/files/10393622/Pakistan.-.Food.Prices.Analysis.zip)
 
 [Pakistan - Food Prices Analysis.pptx](https://github.com/AbdulAfeez001/Pakistan--FoodPrices-Analysis/files/10393586/Pakistan.-.Food.Prices.Analysis.pptx)
